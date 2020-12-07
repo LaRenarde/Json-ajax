@@ -1,0 +1,14 @@
+.article{
+    width: 300px;
+    margin: 30px;
+}
+article > div{
+    display:none;
+}
+.article > img{
+    width: 100%;
+    border: 3px black solid;
+}
+.is-active {
+    display : block;
+}
